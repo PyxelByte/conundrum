@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: 18e1ce6e5da95f84c8476f0d5cbec5dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5190664362705163156
+    second: Drips and Stains_0
+  - first:
+      213: -3307428544209752063
+    second: Drips and Stains_1
+  - first:
+      213: -8028027203585539661
+    second: Drips and Stains_2
+  - first:
+      213: -9217788679728810114
+    second: Drips and Stains_3
+  - first:
+      213: -7502785994527559529
+    second: Drips and Stains_4
+  - first:
+      213: -4831485204341206994
+    second: Drips and Stains_5
+  - first:
+      213: 982825462663091348
+    second: Drips and Stains_6
+  - first:
+      213: -1771934118195136017
+    second: Drips and Stains_7
+  - first:
+      213: 775266066637724763
+    second: Drips and Stains_8
+  - first:
+      213: -8246760881159458631
+    second: Drips and Stains_9
+  - first:
+      213: -2940893949355033605
+    second: Drips and Stains_10
+  - first:
+      213: 1267386139676110567
+    second: Drips and Stains_11
+  - first:
+      213: -4111964089737815077
+    second: Drips and Stains_12
+  - first:
+      213: 4605622503646603122
+    second: Drips and Stains_13
+  - first:
+      213: 3510740342213540609
+    second: Drips and Stains_14
+  - first:
+      213: -3867044581120580735
+    second: Drips and Stains_15
+  - first:
+      213: -4088677891742089278
+    second: Drips and Stains_16
+  - first:
+      213: 2503083300491419240
+    second: Drips and Stains_17
+  - first:
+      213: -9150921453538493798
+    second: Drips and Stains_18
+  - first:
+      213: -8152185630086229785
+    second: Drips and Stains_19
+  - first:
+      213: -7973004155001029269
+    second: Drips and Stains_20
+  - first:
+      213: 7341900458129547548
+    second: Drips and Stains_21
+  - first:
+      213: -5611625331770427278
+    second: Drips and Stains_22
+  - first:
+      213: -7339696206179527763
+    second: Drips and Stains_23
+  - first:
+      213: 4385702932065937860
+    second: Drips and Stains_24
+  - first:
+      213: -8971537975252278083
+    second: Drips and Stains_25
+  - first:
+      213: -5770560103218993276
+    second: Drips and Stains_26
+  - first:
+      213: 4069778301803291549
+    second: Drips and Stains_27
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drips and Stains_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 118
+        width: 9
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ceda0734e07f7b0800000000000000
+      internalID: -5190664362705163156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 118
+        width: 13
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100f3663347a912d0800000000000000
+      internalID: -3307428544209752063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 121
+        width: 7
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b18c1beac7b69090800000000000000
+      internalID: -8028027203585539661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 114
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77b522a806d31080800000000000000
+      internalID: -9217788679728810114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 107
+        width: 11
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790b862b3efb0e790800000000000000
+      internalID: -7502785994527559529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 12
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20dfa11ecd13fcb0800000000000000
+      internalID: -4831485204341206994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 110
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4941e321d82b3ad00800000000000000
+      internalID: 982825462663091348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 97
+        width: 9
+        height: 5
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9759fbe43d867e0800000000000000
+      internalID: -1771934118195136017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 81
+        width: 8
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c1b5c416c42ca00800000000000000
+      internalID: 775266066637724763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 81
+        width: 4
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b037eafbae9d8d80800000000000000
+      internalID: -8246760881159458631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 94
+        width: 9
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbf89ad888df27d0800000000000000
+      internalID: -2940893949355033605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 101
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eee5a8aaf8a69110800000000000000
+      internalID: 1267386139676110567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 86
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbd30e427e5fe6c0800000000000000
+      internalID: -4111964089737815077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 68
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277a663f3457aef30800000000000000
+      internalID: 4605622503646603122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 49
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b75449db7a8b030800000000000000
+      internalID: 3510740342213540609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 49
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18365b3217f755ac0800000000000000
+      internalID: -3867044581120580735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 49
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf38b5ce191247c0800000000000000
+      internalID: -4088677891742089278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 49
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ed009fffcbcb220800000000000000
+      internalID: 2503083300491419240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 49
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a3652fb65610180800000000000000
+      internalID: -9150921453538493798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e09aaf8c5e9dde80800000000000000
+      internalID: -8152185630086229785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 35
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d337cb6f23a5190800000000000000
+      internalID: -7973004155001029269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 40
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11e61f419ba3e560800000000000000
+      internalID: 7341900458129547548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 36
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2787d3f0e708f12b0800000000000000
+      internalID: -5611625331770427278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 36
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da313671039242a90800000000000000
+      internalID: -7339696206179527763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 84
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9ed2c84952ddc30800000000000000
+      internalID: 4385702932065937860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 97
+        width: 6
+        height: 3
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db42928aeb1be7380800000000000000
+      internalID: -8971537975252278083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_26
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 83
+        width: 4
+        height: 2
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487279ce82adaefa0800000000000000
+      internalID: -5770560103218993276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drips and Stains_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 106
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93e3998dc1ca7830800000000000000
+      internalID: 4069778301803291549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 38214cf300ff5b14f8f4227565443fb3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Drips and Stains_1: -3307428544209752063
+      Drips and Stains_21: 7341900458129547548
+      Drips and Stains_13: 4605622503646603122
+      Drips and Stains_12: -4111964089737815077
+      Drips and Stains_4: -7502785994527559529
+      Drips and Stains_23: -7339696206179527763
+      Drips and Stains_17: 2503083300491419240
+      Drips and Stains_22: -5611625331770427278
+      Drips and Stains_11: 1267386139676110567
+      Drips and Stains_3: -9217788679728810114
+      Drips and Stains_9: -8246760881159458631
+      Drips and Stains_2: -8028027203585539661
+      Drips and Stains_0: -5190664362705163156
+      Drips and Stains_26: -5770560103218993276
+      Drips and Stains_20: -7973004155001029269
+      Drips and Stains_24: 4385702932065937860
+      Drips and Stains_14: 3510740342213540609
+      Drips and Stains_5: -4831485204341206994
+      Drips and Stains_15: -3867044581120580735
+      Drips and Stains_25: -8971537975252278083
+      Drips and Stains_16: -4088677891742089278
+      Drips and Stains_10: -2940893949355033605
+      Drips and Stains_6: 982825462663091348
+      Drips and Stains_27: 4069778301803291549
+      Drips and Stains_18: -9150921453538493798
+      Drips and Stains_19: -8152185630086229785
+      Drips and Stains_7: -1771934118195136017
+      Drips and Stains_8: 775266066637724763
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

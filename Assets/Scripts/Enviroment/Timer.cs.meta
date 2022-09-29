@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 20ed78c349690c449bae73eef6a8c2b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timesUpText: {instanceID: 0}
+  - youWinText: {instanceID: 0}
+  - engine: {fileID: 11400000, guid: b0a7b2f998ec49d40b8acf79341445a5, type: 2}
+  - controls: {fileID: 11400000, guid: b99b861ad112d6242ac07b068bf453d0, type: 2}
+  - countdown: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

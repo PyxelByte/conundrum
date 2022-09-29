@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e1c47e14434e27d44a6da673461e67b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rig2d: {fileID: 6298675367435454031, guid: f58c56a2ef993e54987870c789f9a697, type: 3}
+  - sprite: {fileID: 6298675367435454030, guid: f58c56a2ef993e54987870c789f9a697,
+      type: 3}
+  - anim: {fileID: 6298675367435454029, guid: f58c56a2ef993e54987870c789f9a697, type: 3}
+  - item: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: fcd9085858b4c6d4882d27ccd170dd3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7617102805842397148
+    second: Hero_walking_Side2_0
+  - first:
+      213: 4349078566695146611
+    second: Hero_walking_Side2_1
+  - first:
+      213: -68413436402401612
+    second: Hero_walking_Side2_2
+  - first:
+      213: 5091660653031625525
+    second: Hero_walking_Side2_3
+  - first:
+      213: 2849527088093261006
+    second: Hero_walking_Side2_4
+  - first:
+      213: -479877271848426121
+    second: Hero_walking_Side2_5
+  - first:
+      213: -1339777240057828395
+    second: Hero_walking_Side2_6
+  - first:
+      213: -6846032426697875221
+    second: Hero_walking_Side2_7
+  - first:
+      213: -3527578172521077892
+    second: Hero_walking_Side2_8
+  - first:
+      213: 7860371970886628923
+    second: Hero_walking_Side2_9
+  - first:
+      213: -8512033523003459319
+    second: Hero_walking_Side2_0
+  - first:
+      213: 105503961315191531
+    second: Hero_walking_Side2_1
+  - first:
+      213: -6784048519218943609
+    second: Hero_walking_Side2_2
+  - first:
+      213: -3822954066288400297
+    second: Hero_walking_Side2_3
+  - first:
+      213: 585978839926749163
+    second: Hero_walking_Side2_4
+  - first:
+      213: 6816651923452137812
+    second: Hero_walking_Side2_5
+  - first:
+      213: -2323096444414602730
+    second: Hero_walking_Side2_6
+  - first:
+      213: -183426170641984179
+    second: Hero_walking_Side2_7
+  - first:
+      213: -3363332657212615410
+    second: Hero_walking_Side2_8
+  - first:
+      213: -6550414663822206976
+    second: Hero_walking_Side2_9
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero_walking_Side2_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 193
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90979290c9e2fd980800000000000000
+      internalID: -7617102805842397148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_walking_Side2_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 193
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaa6983b43d67100800000000000000
+      internalID: 4349078566695146611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_walking_Side2_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 193
+        width: 17
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789a0f0b0d73ad1a0800000000000000
+      internalID: -68413436402401612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_walking_Side2_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 129
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758ae36188322fac0800000000000000
+      internalID: 5091660653031625525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_walking_Side2_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 129
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7bab776a0d12800800000000000000
+      internalID: 2849527088093261006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_walking_Side2_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 129
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45119d6eecc999e50800000000000000
+      internalID: -479877271848426121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_walking_Side2_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612d1b39714b2cfd0800000000000000
+      internalID: -1339777240057828395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_walking_Side2_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 15
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45df50aed6547df0800000000000000
+      internalID: -6846032426697875221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_walking_Side2_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 65
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e051f5994ca0351d0800000000000000
+      internalID: -3527578172521077892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_walking_Side2_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1
+        width: 20
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0081e5f91904815a0800000000000000
+      internalID: 7860371970886628923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Hero_walking_Side2_0: -7617102805842397148
+      Hero_walking_Side2_3: 5091660653031625525
+      Hero_walking_Side2_9: 7860371970886628923
+      Hero_walking_Side2_7: -6846032426697875221
+      Hero_walking_Side2_6: -1339777240057828395
+      Hero_walking_Side2_2: -68413436402401612
+      Hero_walking_Side2_4: 2849527088093261006
+      Hero_walking_Side2_8: -3527578172521077892
+      Hero_walking_Side2_5: -479877271848426121
+      Hero_walking_Side2_1: 4349078566695146611
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
