@@ -1,6 +1,6 @@
 # Conundrum
 
-This is the source code for our Ludum Dare 47 game [Conundrum](https://pyxel-error.itch.io/conundrum-ld47).
+This is the source code for our Ludum Dare 47 game [Conundrum](https://ldjam.com/events/ludum-dare/47/conundrum).
 
 ## Description
 
